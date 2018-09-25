@@ -1,11 +1,16 @@
 _repo: A-Cyclopaedia-of-Canadian-Biography-Being-Chiefly-Men-of-the-Time_57724
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57724-h/images/cover.jpg
 creator:
   editor:
     agent_name: Rose, George Maclean
     gutenberg_agent_id: '49567'
     url: http://www.gutenberg.org/2009/agents/49567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57724#A-Cyclopaedia-of-Canadian-Biography-Being-Chiefly-Men-of-the-Time
 gutenberg_issued: '2018-08-18'
 gutenberg_type: Text
 identifiers:
