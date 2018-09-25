@@ -1,0 +1,21 @@
+_repo: A-Cyclopaedia-of-Canadian-Biography-Being-Chiefly-Men-of-the-Time_57724
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Rose, George Maclean
+    gutenberg_agent_id: '49567'
+    url: http://www.gutenberg.org/2009/agents/49567
+description: ''
+gutenberg_issued: '2018-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Biography'
+- GITenberg
+title: 'A Cyclopaedia of Canadian Biography: Being Chiefly Men of the Time'
+url: http://www.gutenberg.org/ebooks/57724
